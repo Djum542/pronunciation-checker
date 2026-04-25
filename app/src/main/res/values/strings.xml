@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kiểm Tra Phát Âm</string>
+    <string name="record">Ghi Âm</string>
+    <string name="speak">Phát Âm</string>
+    <string name="next">Tiếp Theo</string>
+    <string name="previous">Trước Đó</string>
+</resources>
